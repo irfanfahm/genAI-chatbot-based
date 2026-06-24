@@ -1,5 +1,5 @@
 import re
-from turtle import pd
+import pandas as pd
 import duckdb
 from app.llm.client import llm
 
