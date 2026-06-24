@@ -1,0 +1,3 @@
+Revenue = total transaction value
+CAC = cost of acquiring customer
+Retention = % customers active after 30 days
