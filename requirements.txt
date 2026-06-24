@@ -10,3 +10,4 @@ python-dotenv
 chromadb
 sentence-transformers
 faker
+langchain-community
